@@ -1,0 +1,163 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2021-08-14T12:29:08.422Z,18.4079,-73.4753,10,7.2,mww,,23,1.174,0.73,us,us6000f65h,2021-08-17T19:37:37.550Z,"Nippes, Haiti",earthquake,5.8,1.8,0.031,97,reviewed,us,us
+2021-07-21T21:15:12.265Z,7.3902,-82.7821,10,6.7,mww,,61,1.397,0.64,us,us6000exs5,2021-08-10T16:19:20.299Z,"71 km S of Punta de Burica, Panama",earthquake,7.7,1.8,0.038,68,reviewed,us,us
+2021-05-19T00:42:19.688Z,-33.0647,-109.3943,10,6.7,mww,,31,5.884,0.95,us,us7000e4aw,2021-07-24T21:08:06.040Z,"southern East Pacific Rise",earthquake,10.5,1.7,0.083,14,reviewed,us,us
+2021-02-03T05:23:43.520Z,-36.2797,-97.8,10,6.7,mww,,40,13.395,0.96,us,us6000de34,2021-04-16T19:03:09.040Z,"West Chile Rise",earthquake,9.7,1.2,0.048,41,reviewed,us,us
+2020-12-27T21:39:14.770Z,-39.3398,-74.9849,10,6.7,mww,,19,1.319,0.63,us,us6000d3i9,2021-03-06T23:19:37.040Z,"146 km WNW of Corral, Chile",earthquake,5.8,1.7,0.048,42,reviewed,us,us
+2020-09-01T21:09:17.852Z,-27.9162,-71.3701,16,6.5,mww,,49,0.388,0.9,us,us7000bg4v,2021-07-31T18:40:51.218Z,"94 km NW of Vallenar, Chile",earthquake,4.3,1.6,0.071,19,reviewed,us,us
+2020-09-01T04:09:28.470Z,-27.9686,-71.3062,21,6.8,mww,,69,0.312,0.88,us,us7000bfjr,2021-07-31T18:33:49.225Z,"86 km NW of Vallenar, Chile",earthquake,5.5,1.8,0.039,62,reviewed,us,us
+2020-06-23T15:29:04.350Z,15.8861,-96.0077,20,7.4,mww,,30,0.151,1.14,us,us6000ah9t,2021-08-16T22:21:36.583Z,"9 km SE of Santa María Xadani, Mexico",earthquake,2.1,1.8,0.035,79,reviewed,us,us
+2020-06-03T07:35:36.466Z,-23.274,-68.4677,112,6.8,mww,,21,1.164,1.13,us,us6000a4yi,2020-08-18T17:58:45.040Z,"48 km SW of San Pedro de Atacama, Chile",earthquake,6.8,1.8,0.046,45,reviewed,us,us
+2020-05-15T11:03:27.176Z,38.1689,-117.8497,2.7,6.5,ml,27,55.79,0.357,0.2669,nn,nn00725272,2021-05-15T11:13:44.782Z,"Monte Cristo Range, NV Earthquake",earthquake,,2.1,,,reviewed,nn,nn
+2020-03-31T23:52:30.781Z,44.4646,-115.1175,12.06,6.5,mww,,31,0.885,0.66,us,us70008jr5,2021-05-21T15:51:31.615Z,"Stanley, Idaho",earthquake,8.5,3.8,0.021,212,reviewed,us,us
+2020-01-28T19:10:24.918Z,19.4193,-78.756,14.86,7.7,mww,,26,1.657,0.75,us,us60007idc,2021-02-03T14:50:33.444Z,"123 km NNW of Lucea, Jamaica",earthquake,6,2.9,0.022,199,reviewed,us,us
+2019-09-29T15:57:53.236Z,-35.4758,-73.163,11,6.7,mww,,98,1.269,0.65,us,us70005nie,2020-07-10T17:49:14.450Z,"70 km WSW of Constitución, Chile",earthquake,3,1.8,0.04,61,reviewed,us,us
+2019-08-01T18:28:07.270Z,-34.2364,-72.3102,25,6.8,mww,,35,0.817,0.91,us,us60004yps,2021-08-01T01:48:40.212Z,"96 km SW of San Antonio, Chile",earthquake,5.1,1.8,0.045,48,reviewed,us,us
+2019-07-06T03:19:53.040Z,35.7695,-117.5993333,8,7.1,mw,77,43,0.04616,0.22,ci,ci38457511,2021-07-20T21:37:59.052Z,"2019 Ridgecrest Earthquake Sequence",earthquake,0.19,31.61,,0,reviewed,ci,ci
+2019-05-30T09:03:32.337Z,13.1994,-89.3056,57.92,6.6,mww,,22,1.193,0.83,us,us70003t2n,2020-07-10T17:41:36.265Z,"32 km S of La Libertad, El Salvador",earthquake,1.7,5.5,0.073,18,reviewed,us,us
+2019-05-26T07:41:15.073Z,-5.8119,-75.2697,122.57,8,mww,,17,3.18,0.84,us,us60003sc0,2021-03-05T19:13:06.497Z,"78 km NE of Navarro, Peru",earthquake,7,4,0.036,75,reviewed,us,us
+2019-03-01T08:50:42.591Z,-14.7131,-70.1546,267,7,mww,,42,2.501,1.13,us,us1000j96d,2021-04-07T02:19:45.001Z,"22 km NNE of Azángaro, Peru",earthquake,7.6,1.9,0.033,87,reviewed,us,us
+2019-02-22T10:17:23.770Z,-2.1862,-77.0505,145,7.5,mww,,15,2.045,1.12,us,us2000jlfv,2020-07-07T22:52:36.277Z,"115 km ESE of Palora, Ecuador",earthquake,6.2,1.8,0.026,144,reviewed,us,us
+2019-02-01T16:14:12.329Z,14.6802,-92.4527,66,6.7,mww,,43,0.289,1.36,us,us2000jbub,2021-07-01T00:27:17.429Z,"5 km SW of Puerto Madero, Mexico",earthquake,5.7,1.8,0.065,23,reviewed,us,us
+2019-01-20T01:32:52.480Z,-30.0404,-71.3815,63,6.7,mww,,22,0.173,1.47,us,us2000j6hy,2021-07-06T06:36:50.045Z,"10 km SSW of Coquimbo, Chile",earthquake,5.8,1.8,0.036,73,reviewed,us,us
+2019-01-05T19:25:38.520Z,-8.144,-71.587,570.41,6.8,mww,,16,1.181,1.15,us,us2000j0ja,2019-03-08T17:50:16.040Z,"90 km W of Tarauacá, Brazil",earthquake,7.1,2.7,0.049,40,reviewed,us,us
+2018-08-24T09:04:08.250Z,-11.0355,-70.8284,630,7.1,mww,,12,3.77,0.99,us,us1000ggj4,2021-07-01T05:47:42.118Z,"136 km W of Iñapari, Peru",earthquake,9.1,1.9,0.055,32,reviewed,us,us
+2018-02-16T23:39:39.280Z,16.3855,-97.9787,22,7.2,mww,,82,0.142,1.23,us,us2000d3km,2021-07-01T14:37:23.305Z,"4 km S of Pinotepa de Don Luis, Mexico",earthquake,4.3,1.8,0.062,25,reviewed,us,us
+2018-01-14T09:18:45.540Z,-15.7675,-74.7092,39,7.1,mww,,23,4.29,1.2,us,us2000cjfy,2021-02-27T19:54:33.140Z,"37 km W of Atiquipa, Peru",earthquake,7,1.8,0.032,95,reviewed,us,us
+2018-01-10T02:51:33.290Z,17.4825,-83.52,19,7.5,mww,,12,4.581,0.82,us,us1000c2zy,2020-07-10T15:39:48.704Z,"203 km NNE of Barra Patuca, Honduras",earthquake,5.8,1.7,0.035,79,reviewed,us,us
+2017-11-13T02:28:23.680Z,9.5147,-84.4865,19.36,6.5,mww,,37,0.225,1.25,us,us2000bmhe,2020-08-15T01:22:51.287Z,"18 km W of Parrita, Costa Rica",earthquake,5,2.6,0.05,38,reviewed,us,us
+2017-09-19T18:14:38.090Z,18.5499,-98.4887,48,7.1,mww,,23,0.984,1.14,us,us2000ar20,2021-08-16T20:38:20.009Z,"1 km S of Matzaco, Mexico",earthquake,4.5,1.8,0.048,41,reviewed,us,us
+2017-09-08T04:49:19.180Z,15.0222,-93.8993,47.39,8.2,mww,,22,0.944,1.22,us,us2000ahv0,2021-07-06T02:52:09.711Z,"near the coast of Chiapas, Mexico",earthquake,6.2,3.7,0.058,29,reviewed,us,us
+2017-06-22T12:31:03.490Z,13.7174,-90.9718,38.12,6.8,mww,,38,1.065,1.46,us,us20009p1a,2020-07-10T16:44:40.407Z,"28 km SW of Puerto San José, Guatemala",earthquake,6.8,3.5,0.028,123,reviewed,us,us
+2017-06-14T07:29:04.390Z,14.9091,-92.0092,93,6.9,mww,,35,0.247,1.42,us,us20009mbt,2021-07-03T00:13:38.365Z,"2 km SSW of San Pablo, Guatemala",earthquake,2.8,2.2,0.026,146,reviewed,us,us
+2017-04-24T21:38:30.820Z,-33.0375,-72.0617,28,6.9,mww,,39,0.356,0.73,us,us10008kce,2021-08-01T20:56:39.816Z,"40 km W of Valparaíso, Chile",earthquake,4.9,1.8,,,reviewed,us,us
+2016-12-25T14:22:27.010Z,-43.4064,-73.9413,38,7.6,mww,,29,0.355,0.79,us,us10007mn3,2021-01-29T00:57:34.710Z,"41 km SW of Quellón, Chile",earthquake,5.4,1.9,,,reviewed,us,us
+2016-11-24T18:43:47.710Z,11.9097,-88.8968,10,6.9,mww,,20,1.796,1.02,us,us10007c4w,2017-02-15T23:21:39.040Z,"156 km SSW of Puerto El Triunfo, El Salvador",earthquake,5.6,1.6,,,reviewed,us,us
+2016-05-18T16:46:43.860Z,0.4947,-79.616,29.95,6.9,mww,,17,1.192,1.09,us,us10005i9n,2020-07-10T15:03:14.252Z,"24 km NW of Rosa Zarate, Ecuador",earthquake,6.6,3,,,reviewed,us,us
+2016-05-18T07:57:02.650Z,0.4261,-79.7899,16,6.7,mww,,21,1.352,1.13,us,us10005i5t,2020-07-10T15:02:56.750Z,"32 km SE of Muisne, Ecuador",earthquake,6.5,1.7,,,reviewed,us,us
+2016-04-29T01:33:38.910Z,10.2752,-103.7363,10,6.6,mww,,38,7.528,0.92,us,us10005cc4,2016-11-30T20:56:53.351Z,"northern East Pacific Rise",earthquake,8.5,1.7,,,reviewed,us,us
+2016-04-16T23:58:36.980Z,0.3819,-79.9218,20.59,7.8,mww,,15,1.44,0.94,us,us20005j32,2020-08-15T05:15:07.767Z,"27 km SSE of Muisne, Ecuador",earthquake,5.7,3.2,,,reviewed,us,us
+2016-01-21T18:06:57.650Z,18.8239,-106.9337,10,6.6,mww,,74,2.413,0.98,us,us10004g4l,2016-11-10T22:09:23.596Z,"203 km SW of La Cruz de Loreto, Mexico",earthquake,6.7,1.7,,,reviewed,us,us
+2015-12-17T19:49:53.050Z,15.8015,-93.633,85,6.6,mww,,35,0.41,1.37,us,us100047zq,2021-07-12T23:33:33.246Z,"4 km W of Manuel Ávila Camacho (Ponte Duro), Mexico",earthquake,4.9,1.8,,,reviewed,us,us
+2015-11-26T05:45:18.400Z,-9.1825,-71.2574,602.75,6.7,mww,,19,2.033,1.06,us,us100041f1,2016-11-10T22:02:15.403Z,"125 km SSW of Tarauacá, Brazil",earthquake,8.8,3.2,,,reviewed,us,us
+2015-11-24T22:50:54.370Z,-10.0598,-71.0184,620.56,7.6,mww,,10,2.852,1,us,us100040x6,2020-07-07T22:44:43.869Z,"185 km WNW of Iñapari, Peru",earthquake,8.5,3.1,,,reviewed,us,us
+2015-11-24T22:45:38.880Z,-10.5372,-70.9437,606.21,7.6,mww,,10,3.287,1.36,us,us100040ww,2021-03-02T17:50:34.662Z,"155 km WNW of Iñapari, Peru",earthquake,8.5,3.2,,,reviewed,us,us
+2015-11-11T02:46:19.830Z,-29.5097,-72.0585,10,6.9,mww,,43,0.821,1.18,us,us10003x9g,2021-02-24T22:04:22.269Z,"85 km NW of Coquimbo, Chile",earthquake,5.1,1.7,,,reviewed,us,us
+2015-11-11T01:54:38.570Z,-29.5067,-72.0068,12,6.9,mww,,32,0.784,1.08,us,us10003x8t,2021-02-24T22:04:43.665Z,"81 km NW of Coquimbo, Chile",earthquake,4.3,1.7,,,reviewed,us,us
+2015-11-07T07:31:43.870Z,-30.8796,-71.4519,46,6.8,mww,,41,0.258,0.76,us,us10003vgt,2020-12-18T19:27:06.001Z,"39 km SW of Ovalle, Chile",earthquake,4.4,1.8,,,reviewed,us,us
+2015-09-21T17:40:00.060Z,-31.7275,-71.3792,35,6.6,mww,,14,1.064,0.79,us,us20003mi0,2021-02-24T22:00:36.002Z,"22 km WSW of Illapel, Chile",earthquake,6,1.8,,,reviewed,us,us
+2015-09-17T04:10:27.780Z,-31.5173,-71.804,23,6.7,mww,,35,0.853,0.91,us,us20003kfv,2021-02-24T22:02:04.854Z,"61 km WNW of Illapel, Chile",earthquake,4.2,1.7,,,reviewed,us,us
+2015-09-17T03:55:15.430Z,-31.4244,-71.6876,27,6.5,mww,,62,0.749,0.65,us,us20003kfj,2021-02-24T22:00:11.820Z,"54 km WNW of Illapel, Chile",earthquake,2.2,1.8,,,reviewed,us,us
+2015-09-16T23:18:41.850Z,-31.5622,-71.4262,28.41,7,mww,,13,0.903,0.93,us,us20003k7w,2021-06-20T02:27:11.675Z,"25 km WNW of Illapel, Chile",earthquake,4.3,3,,,reviewed,us,us
+2015-09-16T22:54:32.860Z,-31.5729,-71.6744,22.44,8.3,mww,,19,0.684,1.02,us,us20003k7a,2021-08-01T21:19:38.437Z,"48 km W of Illapel, Chile",earthquake,4.7,3.2,,,reviewed,us,us
+2015-09-13T08:14:08.560Z,24.913,-109.6226,10,6.7,mww,,123,1.256,0.65,us,us20003j4u,2021-05-10T16:48:36.514Z,"95 km SW of Topolobampo, Mexico",earthquake,6.6,2,,,reviewed,us,us
+2015-02-11T18:57:22.460Z,-23.1125,-66.688,223,6.7,mww,,16,2.11,1.02,us,usc000tp1s,2021-03-19T15:21:09.923Z,"103 km W of El Aguilar, Argentina",earthquake,7.1,1.8,,,reviewed,us,us
+2015-01-07T05:07:07.510Z,5.9045,-82.6576,8,6.5,mww,,61,4.318,1.17,us,usc000tcba,2016-11-10T21:46:01.157Z,"236 km S of Punta de Burica, Panama",earthquake,7.3,1.8,,,reviewed,us,us
+2014-12-08T08:54:52.520Z,7.9401,-82.6865,20,6.6,mww,,43,2.485,1.01,us,usc000t4iq,2020-07-10T19:16:18.544Z,"22 km ESE of Punta de Burica, Panama",earthquake,3.6,1.8,,,reviewed,us,us
+2014-10-14T03:51:34.460Z,12.5262,-88.1225,40,7.3,mww,,18,1.078,0.7,us,usb000slwn,2020-07-10T18:40:57.329Z,"74 km S of Intipucá, El Salvador",earthquake,5.6,1.8,,,reviewed,us,us
+2014-10-09T02:32:05.140Z,-32.0953,-110.8647,10,6.6,mww,,32,5.127,0.43,us,usb000sk6q,2015-01-06T23:49:48.040Z,"southern East Pacific Rise",earthquake,9.3,1.7,,,reviewed,us,us
+2014-10-09T02:14:31.440Z,-32.1082,-110.8112,16.54,7,mww,,22,5.127,0.43,us,usb000sk6k,2020-07-10T18:40:21.777Z,"southern East Pacific Rise",earthquake,8.2,2.9,,,reviewed,us,us
+2014-08-24T23:21:45.520Z,-14.598,-73.5714,101,6.8,mww,,18,4.107,0.9,us,usb000s5x1,2020-07-10T18:36:53.653Z,"38 km NW of Aniso, Peru",earthquake,4.7,1.8,,,reviewed,us,us
+2014-07-07T11:23:54.780Z,14.724,-92.4614,53,6.9,mww,,51,0.263,1.38,us,usc000rr6a,2020-07-10T19:12:14.013Z,"4 km W of Puerto Madero, Mexico",earthquake,,1.8,,,reviewed,us,us
+2014-05-13T06:35:24.240Z,7.2096,-82.3045,10,6.5,mww,,33,3.121,1.33,us,usb000qk64,2017-10-11T20:51:32.999Z,"110 km SE of Punta de Burica, Panama",earthquake,,1.3,,,reviewed,us,us
+2014-05-12T18:38:36.700Z,-49.9403,-114.7995,10.47,6.5,mww,,35,23.164,1.16,us,usb000qjhh,2014-08-06T00:55:34.000Z,"southern East Pacific Rise",earthquake,,3,,,reviewed,us,us
+2014-04-18T14:27:24.920Z,17.397,-100.9723,24,7.2,mww,,46,2.25,1.2,us,usb000pq41,2020-07-07T22:57:21.496Z,"9 km ENE of Coyuquilla Norte, Mexico",earthquake,,1.5,,,reviewed,us,us
+2014-04-11T20:29:12.970Z,11.642,-85.8779,135,6.6,mww,,20,0.761,1.35,us,usc000pgsi,2020-07-10T19:07:40.575Z,"15 km N of Belén, Nicaragua",earthquake,,1.7,,,reviewed,us,us
+2014-04-03T02:43:13.110Z,-20.5709,-70.4931,22.4,7.7,mww,,44,1.029,0.82,us,usc000p27i,2021-04-19T21:42:05.699Z,"53 km SW of Iquique, Chile",earthquake,,3.4,,,reviewed,us,us
+2014-04-03T01:58:30.530Z,-20.3113,-70.5756,24.07,6.5,mww,,82,0.828,0.62,us,usc000p26f,2021-04-17T16:55:45.639Z,"45 km WSW of Iquique, Chile",earthquake,,2.7,,,reviewed,us,us
+2014-04-01T23:57:58.790Z,-19.8927,-70.9455,28.42,6.9,mww,,119,0.828,0.93,us,usc000nzwm,2021-06-25T19:15:26.857Z,"90 km WNW of Iquique, Chile",earthquake,,4.2,,,reviewed,us,us
+2014-04-01T23:46:47.260Z,-19.6097,-70.7691,25,8.2,mww,,23,0.609,0.66,us,usc000nzvd,2021-06-27T19:55:36.893Z,"93 km NW of Iquique, Chile",earthquake,,1.8,,,reviewed,us,us
+2014-03-16T21:16:29.600Z,-19.9807,-70.7022,20,6.7,mww,,44,1.008,0.83,us,usc000ndnj,2021-03-13T19:16:50.285Z,"63 km WNW of Iquique, Chile",earthquake,,1.2,,,reviewed,us,us
+2014-03-10T05:18:13.430Z,40.8286667,-125.1338333,16.441,6.8,mw,112,229,0.6568,0.15,nc,nc72182046,2020-07-10T14:24:50.669Z,"77 km WNW of Indianola, California",earthquake,0.64,1.88,,5,reviewed,nc,nc
+2013-10-31T23:03:59.720Z,-30.2921,-71.5215,27,6.6,mww,,31,0.636,1.28,us,usb000kqnc,2020-07-10T18:21:06.829Z,"41 km SSW of Coquimbo, Chile",earthquake,,1.7,,,reviewed,us,us
+2013-10-19T17:54:54.700Z,26.0913,-110.3209,9.45,6.6,mww,,44,1.98,1.1,us,usb000khbc,2020-07-10T18:20:12.984Z,"98 km SW of Etchoropo, Mexico",earthquake,,3,,,reviewed,us,us
+2013-09-25T16:42:43.170Z,-15.8385,-74.5112,40,7.1,mww,,17,4.446,0.9,us,usb000jzma,2020-07-10T18:18:20.604Z,"16 km WSW of Atiquipa, Peru",earthquake,,1.8,,,reviewed,us,us
+2013-08-13T15:43:15.200Z,5.7732,-78.1999,12,6.7,mww,,22,3.741,0.84,us,usb000j275,2020-07-10T18:14:40.926Z,"101 km WSW of Bahía Solano, Colombia",earthquake,,1.7,,,reviewed,us,us
+2013-06-15T17:34:27.810Z,11.763,-86.926,30,6.5,mww,698,27,,1.22,us,usc000hrnr,2020-07-10T18:55:41.589Z,"44 km W of Masachapa, Nicaragua",earthquake,,,,,reviewed,us,us
+2013-02-09T14:16:07.880Z,1.135,-77.393,145,6.9,mww,562,23.7,,0.91,us,usc000f4ij,2020-07-10T18:49:29.953Z,"2 km NNE of Yacuanquer, Colombia",earthquake,,,,,reviewed,us,us
+2013-01-30T20:15:43.340Z,-28.094,-70.653,45,6.8,mww,596,19.3,,1.07,us,usc000eyp3,2020-07-14T01:01:12.463Z,"54 km N of Vallenar, Chile",earthquake,,,,,reviewed,us,us
+2012-11-11T22:14:59.240Z,14.129,-92.164,20,6.5,mww,598,57.3,,1.08,us,usp000jvdf,2020-09-21T18:31:02.989Z,"32 km SW of Champerico, Guatemala",earthquake,,,,,reviewed,us,us
+2012-11-07T16:35:46.930Z,13.988,-91.895,24,7.4,mww,751,25.5,,1.27,us,usp000jv5f,2020-10-20T23:27:59.481Z,"33 km S of Champerico, Guatemala",earthquake,,,,,reviewed,us,us
+2012-10-24T00:45:32.990Z,10.086,-85.298,17,6.5,mww,691,34.4,,0.85,us,usp000jucg,2020-09-21T18:27:33.081Z,"Costa Rica",earthquake,,,,,reviewed,us,us
+2012-09-30T16:31:35.970Z,1.929,-76.362,170,7.3,mww,934,15.5,,0.87,us,usp000jta1,2020-09-21T18:25:02.268Z,"11 km WNW of San Agustín, Colombia",earthquake,,,,,reviewed,us,us
+2012-09-05T14:42:07.800Z,10.085,-85.315,35,7.6,mww,703,34.3,,1.2,us,usp000jrsw,2020-08-15T05:40:52.367Z,"11 km ENE of Hojancha, Costa Rica",earthquake,,,,,reviewed,us,us
+2012-08-27T04:37:19.430Z,12.139,-88.59,28,7.3,mww,417,37,,1.3,us,usp000jqvm,2020-09-21T18:21:44.315Z,"126 km S of Puerto El Triunfo, El Salvador",earthquake,,,,,reviewed,us,us
+2012-04-17T03:50:15.610Z,-32.625,-71.365,29,6.7,mww,518,26.9,,0.96,us,usp000jj3u,2021-03-10T00:36:21.008Z,"22 km NW of Hacienda La Calera, Chile",earthquake,,,,,reviewed,us,us
+2012-04-12T07:15:48.500Z,28.696,-113.104,13,7,mww,474,95.9,,1.18,us,usp000jhr6,2020-09-21T18:04:24.284Z,"69 km ENE of San Luis, Mexico",earthquake,,,,,reviewed,us,us
+2012-04-11T22:55:10.250Z,18.229,-102.689,20,6.5,mwb,599,54.1,,0.98,us,usp000jhpj,2020-09-21T18:03:54.732Z,"41 km NW of El Habillal, Mexico",earthquake,,,,,reviewed,us,us
+2012-03-25T22:37:06.000Z,-35.2,-72.217,40.7,7.1,mww,553,15.2,,,us,usp000jgsw,2020-09-21T18:02:10.760Z,"23 km NE of Constitución, Chile",earthquake,,,,,reviewed,guc,us
+2012-03-20T18:02:47.440Z,16.493,-98.231,20,7.4,mww,672,37.9,,0.98,us,usp000jghj,2021-02-18T19:35:05.275Z,"6 km E of Santiago Llano Grande, Mexico",earthquake,,,,,reviewed,us,us
+2011-12-11T01:47:25.560Z,17.986,-99.789,59,6.5,mww,578,38.6,,0.93,us,usp000jc1y,2020-09-21T17:52:55.434Z,"6 km SSW of Nuevo Balsas, Mexico",earthquake,,,,,reviewed,us,us
+2011-11-22T18:48:16.300Z,-15.364,-65.09,549.9,6.6,mww,832,11.2,,0.8,us,usp000jb98,2017-04-26T18:12:50.539Z,"62 km SSW of Trinidad, Bolivia",earthquake,,,,,reviewed,us,us
+2011-10-28T18:54:34.040Z,-14.438,-75.966,24,6.9,mww,474,46.5,,1,us,usp000ja1p,2020-09-21T17:48:42.914Z,"39 km SW of Santiago, Peru",earthquake,,,,,reviewed,us,us
+2011-08-24T17:46:11.650Z,-7.641,-74.525,147,7,mww,471,26.9,,0.87,us,usp000j6z8,2020-09-21T17:42:52.880Z,"64 km ESE of Contamana, Peru",earthquake,,,,,reviewed,us,us
+2011-04-07T13:11:22.400Z,17.208,-94.338,166.2,6.6,mww,518,37.2,,,us,usp000hzf3,2020-09-21T17:27:46.017Z,"7 km SW of Helio García Alfaro, Mexico",earthquake,,,,,reviewed,unm,us
+2011-02-14T03:40:09.920Z,-35.38,-72.834,21,6.7,mww,358,33.9,,0.97,us,usp000hugg,2021-02-24T22:03:00.618Z,"38 km W of Constitución, Chile",earthquake,,,,,reviewed,us,us
+2011-02-11T20:05:30.910Z,-36.422,-72.96,26,6.9,mww,382,34.7,,1.27,us,usp000huc2,2021-02-24T22:05:17.315Z,"21 km N of Tomé, Chile",earthquake,,,,,reviewed,us,us
+2011-01-02T20:20:17.780Z,-38.355,-73.326,24,7.2,mww,397,30.1,,1.1,us,usp000hsfq,2021-03-08T21:44:55.940Z,"42 km NNW of Carahue, Chile",earthquake,,,,,reviewed,us,us
+2010-10-21T17:53:13.570Z,24.696,-109.156,13,6.7,mwc,352,50.3,,1.21,us,usp000hncm,2020-09-21T17:03:03.915Z,"97 km SSW of El Huitusi, Mexico",earthquake,,,,,reviewed,us,us
+2010-08-12T11:54:15.580Z,-1.266,-77.306,206.7,7.1,mwc,672,12.4,,0.87,us,usp000hj05,2020-09-21T16:58:28.677Z,"Ecuador",earthquake,,,,,reviewed,us,us
+2010-07-14T08:32:21.490Z,-38.067,-73.31,22,6.6,mwc,295,52.8,,0.86,us,usp000hf8z,2021-02-24T22:01:06.464Z,"30 km SSE of Cañete, Chile",earthquake,,,,,reviewed,us,gcmt
+2010-05-24T16:18:29.090Z,-8.087,-71.558,581.2,6.5,mwc,460,22.8,,0.8,us,usp000hd4k,2017-04-26T18:10:57.554Z,"87 km W of Tarauacá, Brazil",earthquake,,,,,reviewed,us,us
+2010-04-04T22:40:42.360Z,32.2861667,-115.2953333,9.987,7.2,mw,10,239,0.5137,0.11,ci,ci14607652,2021-08-14T22:34:29.092Z,"12km SW of Delta, B.C., MX",earthquake,1.81,31.61,,0,reviewed,ci,ci
+2010-03-16T02:21:57.940Z,-36.217,-73.257,18,6.7,mwc,312,34.7,,0.93,us,usp000h9fs,2021-02-24T22:03:33.609Z,"52 km NNW of Tomé, Chile",earthquake,,,,,reviewed,us,us
+2010-03-11T14:55:27.510Z,-34.326,-71.799,18,7,mwc,403,17.1,,1.02,us,usp000h94v,2021-03-08T21:48:47.029Z,"52 km NW of Santa Cruz, Chile",earthquake,,,,,reviewed,us,gcmt
+2010-03-11T14:39:43.950Z,-34.29,-71.891,11,6.9,mwc,415,12.5,,0.85,us,usp000h94t,2021-02-24T22:05:52.655Z,"61 km NW of Santa Cruz, Chile",earthquake,,,,,reviewed,us,us
+2010-03-05T11:47:06.820Z,-36.665,-73.374,18,6.6,mwb,255,27.8,,0.93,us,usp000h8rt,2021-02-24T22:01:37.417Z,"23 km WNW of Talcahuano, Chile",earthquake,,,,,reviewed,us,us
+2010-02-27T08:01:23.010Z,-37.773,-75.048,35,7.4,mwc,409,17.6,,1.06,us,usp000h7sq,2020-09-21T16:33:51.303Z,"124 km W of Lebu, Chile",earthquake,,,,,reviewed,us,gcmt
+2010-02-27T06:34:11.530Z,-36.122,-72.898,22.9,8.8,mww,454,17.8,,1.09,official,official20100227063411530_30,2021-02-24T19:26:54.976Z,"36 km WNW of Quirihue, Chile",earthquake,,9.2,,,reviewed,us,official
+2010-01-12T21:53:10.060Z,18.443,-72.571,13,7,mwc,500,22.7,,0.97,us,usp000h60h,2020-08-14T20:54:51.883Z,"10 km SE of Léogâne, Haiti",earthquake,,,,,reviewed,us,us
+2010-01-10T00:27:39.320Z,40.652,-124.6925,28.737,6.5,mw,51,220,0.3225,0.2,nc,nc71338066,2020-07-07T22:36:48.275Z,"37 km WNW of Ferndale, California",earthquake,0.55,1.31,,8,reviewed,nc,nc
+2009-11-13T03:05:57.220Z,-19.394,-70.321,27,6.5,mwc,390,17.7,,0.83,us,usp000h401,2021-05-18T01:44:06.387Z,"92 km N of Iquique, Chile",earthquake,,,,,reviewed,us,us
+2009-08-03T17:59:56.170Z,29.039,-112.903,10,6.9,mwc,243,35,,1.29,us,usp000gzyb,2020-09-21T16:10:58.747Z,"96 km WNW of Bahía de Kino, Mexico",earthquake,,,,,reviewed,us,gcmt
+2009-05-28T08:24:46.560Z,16.731,-86.217,19,7.3,mwc,464,27.2,,1.12,us,usp000gxkj,2020-08-15T05:33:15.621Z,"46 km NW of Guanaja, Honduras",earthquake,,,,,reviewed,us,gcmt
+2008-10-16T19:41:25.720Z,14.423,-92.364,24,6.7,mwc,481,28.6,,1.17,us,usp000gkde,2020-09-21T15:50:43.432Z,"19 km SW of Brisas Barra de Suchiate, Mexico",earthquake,,,,,reviewed,us,us
+2008-02-12T12:50:18.490Z,16.357,-94.304,83,6.5,mwc,521,27.6,,1.01,us,usp000fyrt,2020-09-18T22:04:27.285Z,"9 km SSW of General Pascual Fentes, Mexico",earthquake,,,,,reviewed,us,gcmt
+2007-12-16T08:09:17.930Z,-22.954,-70.182,45,6.7,mwb,481,30.3,,1.11,us,usp000fujd,2020-09-18T22:00:01.336Z,"80 km NNE of Antofagasta, Chile",earthquake,,,,,reviewed,us,us
+2007-11-16T03:13:00.120Z,-2.312,-77.838,122.9,6.8,mwc,649,27,,0.88,us,usp000fsnz,2020-09-18T21:53:53.131Z,"30 km E of Macas, Ecuador",earthquake,,,,,reviewed,us,gcmt
+2007-11-15T15:05:58.350Z,-22.925,-70.237,26,6.8,mwc,285,40.1,,1.13,us,usp000fsmf,2020-09-18T21:53:29.957Z,"82 km NNE of Antofagasta, Chile",earthquake,,,,,reviewed,us,gcmt
+2007-11-14T15:40:50.530Z,-22.247,-69.89,40,7.7,mwc,610,22.4,,1.11,us,usp000fshy,2020-07-08T02:10:11.158Z,"36 km ESE of Tocopilla, Chile",earthquake,,,,,reviewed,us,gcmt
+2007-09-10T01:49:11.780Z,2.966,-77.963,15,6.8,mwc,653,17.6,,0.89,us,usp000fmtk,2020-09-18T21:45:51.047Z,"39 km WNW of Timbiquí, Colombia",earthquake,,,,,reviewed,us,gcmt
+2007-08-15T23:40:57.890Z,-13.386,-76.603,39,8,mwc,625,25.7,,0.86,us,usp000fjta,2021-03-10T00:06:14.811Z,"41 km SW of San Vicente de Cañete, Peru",earthquake,,,,,reviewed,us,gcmt
+2007-06-13T19:29:40.180Z,13.554,-90.618,23,6.7,mwc,468,37.7,,1.09,us,usp000fdyv,2020-09-18T21:36:42.314Z,"43 km SSE of Iztapa, Guatemala",earthquake,,,,,reviewed,us,gcmt
+2006-10-20T10:48:56.010Z,-13.457,-76.677,23,6.7,mwc,444,53.4,,0.97,us,usp000evkn,2020-09-18T21:13:30.108Z,"52 km SW of San Vicente de Cañete, Peru",earthquake,,,,,reviewed,us,gcmt
+2006-08-25T00:44:46.160Z,-24.403,-67.028,184,6.6,mwb,454,24.4,,0.94,us,usp000erpk,2017-04-26T18:06:11.610Z,"74 km WSW of San Antonio de los Cobres, Argentina",earthquake,,,,,reviewed,us,us
+2006-04-30T21:40:58.440Z,-27.211,-71.056,12,6.5,mwc,282,46.3,,1.26,us,usp000efw2,2020-09-18T20:59:39.582Z,"73 km WNW of Copiapó, Chile",earthquake,,,,,reviewed,us,hrv
+2006-04-30T19:17:14.980Z,-27.017,-71.022,12,6.7,mwb,277,25.6,,1.19,us,usp000efv7,2021-02-24T22:04:00.521Z,"78 km WNW of Copiapó, Chile",earthquake,,,,,reviewed,us,us
+2006-01-04T08:32:32.400Z,28.164,-112.117,14,6.6,mwc,323,48.2,,1.25,us,usp000e7jp,2020-09-18T20:50:47.562Z,"75 km SSW of Bahía de Kino, Mexico",earthquake,,,,,reviewed,us,hrv
+2005-11-17T19:26:54.490Z,-22.361,-67.895,147,6.8,mwb,509,30.1,,0.9,us,usp000e4cy,2020-09-18T20:47:07.458Z,"68 km NNE of San Pedro de Atacama, Chile",earthquake,,,,,reviewed,us,us
+2005-09-26T01:55:37.670Z,-5.678,-76.398,115,7.5,mwb,696,26.2,,0.88,us,usp000e09h,2020-09-18T20:41:40.561Z,"39 km NW of Yurimaguas, Peru",earthquake,,,,,reviewed,us,us
+2005-07-02T02:16:43.700Z,11.245,-86.172,27,6.6,mwc,446,21.1,,1.12,us,usp000dubj,2021-02-18T19:24:09.659Z,"32 km W of San Juan del Sur, Nicaragua",earthquake,,,,,reviewed,us,hrv
+2005-06-13T22:44:33.900Z,-19.987,-69.197,115.6,7.8,mwb,714,16.1,,1.01,us,usp000dsw1,2021-01-05T03:16:54.394Z,"102 km ENE of Iquique, Chile",earthquake,,,,,reviewed,us,us
+2005-05-05T19:12:21.410Z,5.71,-82.845,18,6.5,mwc,190,62.4,,1.26,us,usp000dpzp,2016-11-10T01:05:48.565Z,"256 km S of Punta de Burica, Panama",earthquake,,,,,reviewed,us,hrv
+2004-12-14T23:20:13.360Z,18.958,-81.409,10,6.8,mwb,639,21.8,,1.04,us,usp000daqt,2020-09-18T20:14:57.469Z,"36 km S of George Town, Cayman Islands",earthquake,,,,,reviewed,us,us
+2004-11-28T02:35:13.410Z,-26.525,-113.834,10,6.6,mwc,265,52,,1.4,us,usp000d9f2,2016-11-10T00:53:30.069Z,"Easter Island region",earthquake,,,,,reviewed,us,hrv
+2004-11-15T09:06:56.560Z,4.695,-77.508,15,7.2,mwb,708,50.2,,0.9,us,usp000d8gx,2020-07-08T01:46:38.367Z,"32 km SSW of Pizarro, Colombia",earthquake,,,,,reviewed,us,us
+2004-10-09T21:26:53.690Z,11.422,-86.665,35,7,mwc,441,32.2,,1.1,us,usp000d63h,2020-07-08T01:40:08.512Z,"43 km SSW of Masachapa, Nicaragua",earthquake,,,,,reviewed,us,hrv
+2004-08-28T13:41:25.600Z,-35.173,-70.525,5,6.5,mwb,349,30.1,,,us,usp000d30e,2020-09-18T20:02:24.179Z,"67 km ESE of Teno, Chile",earthquake,,,,,reviewed,guc,us
+2004-05-03T04:36:50.040Z,-37.695,-73.406,21,6.6,mwb,282,46.9,,1.31,us,usp000cu1z,2020-09-18T19:54:21.075Z,"11 km N of Cañete, Chile",earthquake,,,,,reviewed,us,us
+2003-12-25T07:11:11.590Z,8.416,-82.824,33,6.5,mwb,405,48.4,,1.2,us,usp000cfzw,2020-09-18T19:44:54.315Z,"3 km SSE of Progreso, Panama",earthquake,,,,,reviewed,us,us
+2003-12-22T19:15:56.240Z,35.7005,-121.1005,8.382,6.5,mw,65,71,0.04685,0.07,nc,nc21323712,2020-08-14T17:23:56.082Z,"10 km NE of San Simeon, California",earthquake,0.16,0.6,,4,reviewed,nc,nc
+2003-06-20T13:30:41.640Z,-30.608,-71.637,33,6.8,mwc,398,39.1,,0.95,us,usp000c0bb,2020-09-18T19:28:23.461Z,"42 km W of Ovalle, Chile",earthquake,,,,,reviewed,us,hrv
+2003-06-20T06:19:38.910Z,-7.606,-71.722,558.1,7.1,mwc,672,22.5,,0.89,us,usp000c0ag,2018-09-28T19:56:05.712Z,"105 km E of Cruzeiro do Sul, Brazil",earthquake,,,,,reviewed,us,hrv
+2003-01-22T02:06:34.610Z,18.77,-104.104,24,7.6,mwb,551,,,1.4,us,usp000bnyr,2020-08-14T16:57:39.249Z,"16 km SSW of Cuyutlán, Mexico",earthquake,,,,,reviewed,us,us
+2003-01-21T02:46:47.740Z,13.626,-90.774,24,6.5,mwc,316,,,0.99,us,usp000bnx3,2020-07-08T01:19:11.851Z,"33 km S of Puerto San José, Guatemala",earthquake,,,,,reviewed,us,hrv
+2002-10-12T20:09:11.460Z,-8.295,-71.738,534.3,6.9,mwc,700,,,1.14,us,usp000bed7,2017-04-26T18:00:45.605Z,"108 km W of Tarauacá, Brazil",earthquake,,,,,reviewed,us,hrv
+2002-10-03T16:08:29.620Z,23.324,-108.53,10,6.5,mwc,265,,,1.37,us,usp000bdqx,2016-11-10T00:47:41.569Z,"111 km ESE of La Rivera, Mexico",earthquake,,,,,reviewed,us,hrv
+2002-07-31T00:16:44.610Z,7.929,-82.793,10,6.5,mwc,533,,,1.21,us,usp000b923,2020-09-18T18:58:30.820Z,"14 km SE of Punta de Burica, Panama",earthquake,,,,,reviewed,us,hrv
+2002-06-18T13:56:22.830Z,-30.805,-71.124,54,6.6,mwb,420,,,1.02,us,usp000b6du,2020-09-18T18:56:01.489Z,"20 km SW of Monte Patria, Chile",earthquake,,,,,reviewed,us,us
+2002-04-18T16:08:36.780Z,-27.535,-70.586,62,6.7,mwb,462,,,1.09,us,usp000b2p9,2020-09-18T18:50:12.223Z,"31 km SW of Copiapó, Chile",earthquake,,,,,reviewed,us,us
+2002-04-18T05:02:46.190Z,16.985,-100.865,24.9,6.8,mwc,292,,,1.13,us,usp000b2mv,2020-09-18T18:49:54.939Z,"27 km SSW of Nuxco, Mexico",earthquake,,3.4,,,reviewed,us,hrv
+2002-03-28T04:56:22.400Z,-21.663,-68.329,125.1,6.5,mwc,486,,,0.98,us,usp000b17z,2020-09-18T18:47:49.719Z,"107 km NE of Calama, Chile",earthquake,,,,,reviewed,us,hrv
+2001-08-06T03:52:59.510Z,-55.537,-123.422,10,6.7,mwc,294,,,1.08,us,usp000akwv,2016-11-10T00:42:09.127Z,"southern East Pacific Rise",earthquake,,,,,reviewed,us,hrv
+2001-07-07T09:38:43.520Z,-17.543,-72.077,33,7.6,mwc,398,,,1.15,us,usp000aj40,2020-09-18T18:27:20.842Z,"51 km SW of Punta de Bombón, Peru",earthquake,,,,,reviewed,us,hrv
+2001-07-05T13:53:48.360Z,-16.086,-73.987,62,6.6,mwc,324,,,1.38,us,usp000aj1a,2020-09-18T18:27:06.544Z,"31 km S of Achanizo, Peru",earthquake,,,,,reviewed,us,hrv
+2001-06-26T04:18:31.380Z,-17.745,-71.649,24,6.7,mwc,422,,,1.06,us,usp000ahfr,2020-09-18T18:25:30.419Z,"34 km WSW of Pacocha, Peru",earthquake,,,,,reviewed,us,hrv
+2001-06-23T20:33:14.130Z,-16.265,-73.641,33,8.4,mww,518,,,1.05,official,official20010623203314130_33,2020-08-14T20:50:43.254Z,"6 km SSW of Atico, Peru",earthquake,,,,,reviewed,us,official
+2001-04-09T09:00:57.170Z,-32.668,-73.109,11,6.7,mwc,314,,,1.14,us,usp000acv4,2016-11-10T00:31:05.595Z,"144 km WNW of Valparaíso, Chile",earthquake,,,,,reviewed,us,hrv
+2001-02-13T14:22:05.820Z,13.671,-88.938,10,6.6,mwc,273,,,1.44,us,usp000a9jv,2020-08-14T14:18:21.464Z,"5 km S of Cojutepeque, El Salvador",earthquake,,,,,reviewed,us,hrv
+2001-01-13T17:33:32.380Z,13.049,-88.66,60,7.7,mwc,427,,,1.13,us,usp000a7m5,2021-02-01T21:45:51.335Z,"28 km SSW of Puerto El Triunfo, El Salvador",earthquake,,,,,reviewed,us,hrv
+2000-12-20T11:23:54.100Z,-39.008,-74.662,11,6.5,mwc,253,,,1.05,us,usp000a6e0,2016-11-10T00:14:52.822Z,"134 km WSW of Carahue, Chile",earthquake,,,,,reviewed,us,hrv
+2000-11-08T06:59:58.860Z,7.042,-77.829,17,6.5,mwc,462,,,1.01,us,usp000a373,2020-09-15T21:47:19.496Z,"10 km SW of Juradó, Colombia",earthquake,,,,,reviewed,us,hrv
+2000-08-09T11:41:47.900Z,18.198,-102.48,45.8,6.5,mwc,481,,,1.05,us,usp0009y65,2020-07-08T01:00:01.904Z,"24 km NNW of El Habillal, Mexico",earthquake,,2.2,,,reviewed,us,hrv
+2000-05-12T18:43:18.120Z,-23.548,-66.452,225,7.2,mwc,,,,0.86,us,usp0009suu,2020-09-15T21:22:20.596Z,"75 km N of San Antonio de los Cobres, Argentina",earthquake,,4.6,,,reviewed,us,hrv
